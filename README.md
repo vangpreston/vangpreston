@@ -1,24 +1,16 @@
-<h1>Hi, I'm Preston! <br/><a href="https://github.com/vangpreston">Programmer</a>, <a href="https://www.linkedin.com/in/vangpreston/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Preston! </h1>
 
-<h2> Certifications </h2>
-  - Google Cybersecurity Professional Certificate /n
-  - CompTIA Security+
-<h2> Cybersecurity Projects:</h2>
+<h2>Education</h2>
+- <b>Bachelors in Computer Science from University of Wisconsin Parkside</b>
 
+<h2>Certifications</h2>
+- <b>Google Cybersecurity Professional Certificate</br>
+- <b>CompTIA Security+</br>
+
+<h2>Projects</h2>
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="vangpreston | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/vangpreston
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
