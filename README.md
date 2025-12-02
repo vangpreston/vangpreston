@@ -8,6 +8,7 @@
 - <b>CompTIA Security+</br>
 
 <h2>Projects</h2>
+- <b>Home SOC</br>
 
 <h2> 🤳 Connect with me:</h2>
 
