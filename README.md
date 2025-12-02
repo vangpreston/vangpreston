@@ -5,7 +5,7 @@
 
 <h2>Certifications</h2>
 - <b>Google Cybersecurity Professional Certificate</br>
-- <b>CompTIA Security+</br>
+- <b>CompTIA Security+ https://www.credly.com/badges/d6857dc5-28d5-468e-ba1b-f0d826f0d0ef</br>
 
 <h2>Projects</h2>
 - <b>Home SOC</br>
