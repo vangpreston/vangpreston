@@ -1,7 +1,7 @@
 <h1>Hi, I'm Preston! <br/><a href="https://github.com/vangpreston">Programmer</a>, <a href="https://www.linkedin.com/in/vangpreston/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2> Certifications </h2>
-  - Google Cybersecurity Professional Certificate
+  - Google Cybersecurity Professional Certificate /n
   - CompTIA Security+
 <h2> Cybersecurity Projects:</h2>
 
