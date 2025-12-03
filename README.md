@@ -4,8 +4,8 @@
 - <b>Bachelors in Computer Science from University of Wisconsin Parkside</b>
 
 <h2>Certifications</h2>
-<b>Google Cybersecurity Professional Certificate</br> 
-[CompTIA Security+](https://www.credly.com/badges/d6857dc5-28d5-468e-ba1b-f0d826f0d0ef)
+<b>Google Cybersecurity Professional Certificate</br>
+<b>CompTIA Security+ (https://www.credly.com/badges/d6857dc5-28d5-468e-ba1b-f0d826f0d0ef)</b>
 
 <h2>Projects</h2>
 - <b>Home SOC</br>
