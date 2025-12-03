@@ -9,7 +9,7 @@
 - <b>[Google Cybersecurity Professional Certificate](https://coursera.org/share/d09e61bca48d3d74e1fd22e6f4d37aff)</br>
 - [CompTIA Security+](https://www.credly.com/badges/d6857dc5-28d5-468e-ba1b-f0d826f0d0ef)
 
-<h2>Projects</h2>
+<h2>👨‍💻 Projects</h2>
 
 - <b>Home SOC</br>
 
