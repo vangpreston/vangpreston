@@ -1,10 +1,10 @@
 <h1>Hi, I'm Preston! </h1>
 
-<h2>Education</h2>
+<h2>:school: Education</h2>
 
 - <b>Bachelors in Computer Science from University of Wisconsin Parkside</b>
 
-<h2>Certifications</h2>
+<h2>:page_with_curl:Certifications</h2>
 
 - <b>[Google Cybersecurity Professional Certificate](https://coursera.org/share/d09e61bca48d3d74e1fd22e6f4d37aff)</br>
 - [CompTIA Security+](https://www.credly.com/badges/d6857dc5-28d5-468e-ba1b-f0d826f0d0ef)
