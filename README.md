@@ -11,7 +11,7 @@
 
 <h2>👨‍💻 Projects</h2>
 
-- <b>Home SOC</br>
+- <b>[Home-SOC](https://github.com/vangpreston/Home-SOC)</br>
 
 <h2> 🤳 Connect with me:</h2>
 
