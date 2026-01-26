@@ -12,6 +12,7 @@
 <h2>👨‍💻 Projects</h2>
 
 - <b>[Home-SOC](https://github.com/vangpreston/Home-SOC)</br>
+- <b>[Active-Directory](https://github.com/vangpreston/Active-Directory-Lab)</br>
 
 <h2> 🤳 Connect with me:</h2>
 
