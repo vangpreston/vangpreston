@@ -14,6 +14,8 @@
 - <b>[Home-SOC](https://github.com/vangpreston/Home-SOC)</br>
 - <b>[Active-Directory](https://github.com/vangpreston/Active-Directory-Lab)</br>
 - <b>[Vulnerability Management Program Implementation](https://github.com/vangpreston/Vulnerability-Management-Program/blob/main/README.md)</br>
+- <b>[Threat Hunting Scenario (TOR)](https://github.com/vangpreston/Vulnerability-Management-Program/blob/main/README.md)</br>
+
 
 <h2> 🤳 Connect with me:</h2>
 
